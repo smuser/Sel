@@ -1,0 +1,10 @@
+2018-04-23 19:33:52,057 INFO  [Log4j] New driver instantiated 
+2018-04-23 19:33:52,144 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2018-04-23 19:33:55,214 INFO  [Log4j] Web application launched 
+2018-04-23 19:37:10,676 INFO  [Log4j] New driver instantiated 
+2018-04-23 19:37:10,686 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2018-04-23 19:37:15,422 INFO  [Log4j] Web application launched 
+2018-04-23 19:37:16,645 INFO  [Log4j] Click action performed on My Account link 
+2018-04-23 19:37:17,045 INFO  [Log4j] Search criteria entered 
+2018-04-23 19:37:17,243 INFO  [Log4j] Criterias all listed and now clicking on testing types criteria 
+2018-04-23 19:37:25,966 INFO  [Log4j] Browser closed 
